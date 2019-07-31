@@ -1,7 +1,5 @@
 {
-    "name": "roopz/yii2-imap",
-    "minimum-stability": "dev",
-    "prefer-stable": "true",
+    "name": "execut/yii2-imap",
     "description": "yii2 extension to read and process mails from IMAP and PHP",
     "keywords": ["yii2", "extension", "widget", "imap", "cron", "mail", "inbox"],
     "homepage": "https://github.com/yiioverflow/yii2-imap.git",
